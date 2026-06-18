@@ -1,5 +1,5 @@
 export default {
-  command: ['hidetag', 'tag'],
+  command: ['notify', 'n'],
   category: 'group',
   description: 'Enviar un mensaje mencionando a todos los usuarios del grupo.',
   isAdmin: true,
