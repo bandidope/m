@@ -115,15 +115,15 @@ export const defSets = {
   self: 0,
   prefix: '[\"/\",\"!\",\".\",\"#\"]',
   commandsejecut: 0,
-  newsletter_id: '120363419947391620@newsletter',
-  nameid: 'ೃ࿔ 𝗣𝗿𝗶𝗺𝗲 𝗕𝗼𝘁 𝗣𝗿𝗼 .ೃ࿐',
+  newsletter_id: '120363401404146384@newsletter',
+  nameid: 'ೃ࿔ ყµҡเ ωαɓσƭร - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
   type: 'Owner',
   link: 'https://api.yuki-wabot.my.id',
   banner: 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
-  icon: 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
+  icon: 'https://cdn.yuki-wabot.my.id/files/4U5V.jpeg',
   currency: 'Yenes',
-  namebot: 'Prime',
-  botname: 'Prime Bot ',
+  namebot: 'Yuki',
+  botname: 'Yuki Suou',
   owner: ''
 };
 
@@ -188,15 +188,15 @@ export function initDB() {
       self BOOLEAN DEFAULT 0,
       prefix TEXT DEFAULT '[\"/\",\"!\",\".\",\"#\"]',
       commandsejecut INTEGER DEFAULT 0,
-      newsletter_id TEXT DEFAULT '120363419947391620@newsletter',
-      nameid TEXT DEFAULT 'ೃ࿔ 𝗣𝗿𝗶𝗺𝗲 𝗕𝗼𝘁 𝗣𝗿𝗼 .ೃ࿐',
+      newsletter_id TEXT DEFAULT '120363401404146384@newsletter',
+      nameid TEXT DEFAULT 'ೃ࿔ ყµҡเ ωαɓσƭร - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
       type TEXT DEFAULT 'Owner',
       link TEXT DEFAULT 'https://api.yuki-wabot.my.id',
       banner TEXT DEFAULT 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
-      icon TEXT DEFAULT 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
+      icon TEXT DEFAULT 'https://cdn.yuki-wabot.my.id/files/4U5V.jpeg',
       currency TEXT DEFAULT 'Yenes',
       namebot TEXT DEFAULT 'Yuki',
-      botname TEXT DEFAULT 'Prime Bot ',
+      botname TEXT DEFAULT 'Yuki Suou',
       owner TEXT DEFAULT ''
     )`);
   db.exec(`CREATE TABLE IF NOT EXISTS characters (id TEXT PRIMARY KEY, data TEXT)`);
