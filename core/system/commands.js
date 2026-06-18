@@ -7,9 +7,9 @@ export const bodyMenu = `> 𖧧 ¡Hola! *@$sender*, Soy *$namebot*, Aquí tienes
 │⚘ *sʏsᴛᴇᴍ/ᴏᴘʀ ::* $device
 │○ *ᴛɪᴍᴇ ::* $tiempo, $tempo
 │𓏸 *ᴜsᴇʀs ::* $users
-│○ *ᴜʀʟ ::* $link
+│○ *ᴜʀʟ ::* https://chat.whatsapp.com/LjPhgjqCM934QEzYz3vrVk
 ╰ׅ┈ࠢ͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴ ⋱࣭ ᩴ  ⋮֔   ᩴ ⋰╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜┈ࠢ͜╯ׅ
-> Vincula un *Socket* con tu número utilizando *$prefixqr* o *$prefixcode*.
+> Entra Al Grupo Si Deseas Comprar Botsitos*.
 ‧꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷︶꒷˚₊‧꒷꒥꒷︶꒷‧`
 
 export const menuObject = {
