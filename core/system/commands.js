@@ -7,6 +7,7 @@ export const bodyMenu = `> 𖧧 ¡Hola! *@$sender*, Soy *$namebot*, Aquí tienes
 │⚘ *sʏsᴛᴇᴍ/ᴏᴘʀ ::* $device
 │○ *ᴛɪᴍᴇ ::* $tiempo, $tempo
 │𓏸 *ᴜsᴇʀs ::* $users
+│○ *ᴜʀʟ ::* $link
 ╰ׅ┈ࠢ͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴ ⋱࣭ ᩴ  ⋮֔   ᩴ ⋰╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜┈ࠢ͜╯ׅ
 > Entra Al Grupo Si Deseas Comprar Botsitos*.
 ‧꒷︶꒷꒥꒷‧₊˚꒷︶꒷꒥꒷︶꒷˚₊‧꒷꒥꒷︶꒷‧`
